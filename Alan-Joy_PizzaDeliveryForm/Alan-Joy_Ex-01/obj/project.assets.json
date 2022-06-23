@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alanj\\Documents\\GitHub\\PIzza-Delivery-Form\\Alan-Joy_PizzaDeliveryForm\\Alan-Joy_Ex-01\\Alan-Joy_PizzaDeliveryForm.csproj",
+      "projectUniqueName": "C:\\Users\\alanj\\Documents\\GitHub\\Pizza-Delivery-Windows-Form\\Alan-Joy_PizzaDeliveryForm\\Alan-Joy_Ex-01\\Alan-Joy_PizzaDeliveryForm.csproj",
       "projectName": "Alan-Joy_PizzaDeliveryForm",
-      "projectPath": "C:\\Users\\alanj\\Documents\\GitHub\\PIzza-Delivery-Form\\Alan-Joy_PizzaDeliveryForm\\Alan-Joy_Ex-01\\Alan-Joy_PizzaDeliveryForm.csproj",
+      "projectPath": "C:\\Users\\alanj\\Documents\\GitHub\\Pizza-Delivery-Windows-Form\\Alan-Joy_PizzaDeliveryForm\\Alan-Joy_Ex-01\\Alan-Joy_PizzaDeliveryForm.csproj",
       "packagesPath": "C:\\Users\\alanj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alanj\\Documents\\GitHub\\PIzza-Delivery-Form\\Alan-Joy_PizzaDeliveryForm\\Alan-Joy_Ex-01\\obj\\",
+      "outputPath": "C:\\Users\\alanj\\Documents\\GitHub\\Pizza-Delivery-Windows-Form\\Alan-Joy_PizzaDeliveryForm\\Alan-Joy_Ex-01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,5 @@
 // Alan Joy
-// COMP 1098 Lab 04
-// 200447007
+// Pizza Delivery Form
 
 namespace Alan_Joy_Ex_01
 {
