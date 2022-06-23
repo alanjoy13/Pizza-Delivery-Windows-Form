@@ -1,0 +1,17 @@
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\bin\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.exe
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\bin\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.deps.json
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\bin\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.runtimeconfig.json
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\bin\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.dll
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\bin\Debug\net6.0-windows\ref\Alan-Joy_PizzaDeliveryForm.dll
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\bin\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.pdb
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.csproj.AssemblyReference.cache
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan_Joy_Ex_01.GlobalPizzaShop.resources
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.csproj.GenerateResource.cache
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.AssemblyInfoInputs.cache
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.AssemblyInfo.cs
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.csproj.CoreCompileInputs.cache
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.dll
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\ref\Alan-Joy_PizzaDeliveryForm.dll
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.pdb
+C:\Users\alanj\Desktop\New folder\Alan-Joy_COMP1098-Sec001_Lab04\Alan-Joy_Ex-01\obj\Debug\net6.0-windows\Alan-Joy_PizzaDeliveryForm.genruntimeconfig.cache

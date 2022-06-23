@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alan-Joy_PizzaDeliveryForm/1.0.0": {
+        "runtime": {
+          "Alan-Joy_PizzaDeliveryForm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alan-Joy_PizzaDeliveryForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
